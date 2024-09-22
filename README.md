@@ -1,1 +1,2 @@
-# Sudan-Conflict-Geospatial-Analysis-and-Humanitarian-Support-Initiative-
+# Sudan Conflict Geospatial Analysis and Humanitarian Support Initiative
+The Sudan Conflict Response GIS Analysis project is an independent initiative addressing the humanitarian crisis stemming from the April 2023 conflict between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF). This project utilizes Geographic Information Systems (GIS) and advanced data analysis techniques to provide critical insights into the conflict's impact, including infrastructure damage and population displacement. The primary goal is to support humanitarian organizations with data-driven information for effective decision-making and resource allocation. 
