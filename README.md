@@ -18,3 +18,21 @@ The Sudan Conflict Response GIS Analysis project is an independent initiative ad
 - Categorize types of explosive hazards and their prevalence
 
 - Assess IDP numbers and displacement patterns
+
+## Project outcomes:
+
+- Comprehensive maps of explosive hazard contamination and suspected battlefield areas
+
+- Analysis of the most affected states by explosive hazards and armed clashes
+
+- Categorization of explosive hazard types and their percentages
+
+- Detailed assessment of IDP distribution and numbers dashboard
+
+An interactive map visualizing suspected battlefields and explosive hazard contamination across Sudan (January 2023 - June 2024)
+
+- Data-driven insights to enhance crisis response strategies for organizations such as the United Nations Mine Action Service (UNMAS) and Geneva International Centre for Humanitarian Demining (GICHD)
+
+These outcomes aim to support humanitarian efforts, aid in effective decision-making, and contribute to the development of targeted crisis response strategies in Sudan.
+
+
