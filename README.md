@@ -27,9 +27,9 @@ The Sudan Conflict Response GIS Analysis project is an independent initiative ad
 
 - Categorization of explosive hazard types and their percentages
 
-- Detailed assessment of IDP distribution and numbers dashboard
+- [Detailed assessment of IDP distribution and numbers dashboard](https://sudan-dtm-dashboard.streamlit.app/)
 
-An interactive map visualizing suspected battlefields and explosive hazard contamination across Sudan (January 2023 - June 2024)
+- [An interactive map visualizing suspected battlefields and explosive hazard contamination across Sudan (January 2023 - June 2024)](https://fayam1.github.io/Sudat-DTM-Analysis/ERW_Concentration.html)
 
 - Data-driven insights to enhance crisis response strategies for organizations such as the United Nations Mine Action Service (UNMAS) and Geneva International Centre for Humanitarian Demining (GICHD)
 
