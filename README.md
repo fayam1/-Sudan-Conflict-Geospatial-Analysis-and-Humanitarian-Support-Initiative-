@@ -9,7 +9,7 @@ The Sudan Conflict Response GIS Analysis project is an independent initiative ad
 
 - Analyze the spatial distribution and size of suspected battlefields from armed clash incidents
 
--Identify the most affected states by explosive hazards and armed clashes
+- Identify the most affected states by explosive hazards and armed clashes
 
 - Categorize types of explosive hazards and their prevalence
 
