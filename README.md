@@ -1,1 +1,1 @@
-# -Sudan-Conflict-Geospatial-Analysis-and-Humanitarian-Support-Initiative-
+# Sudan-Conflict-Geospatial-Analysis-and-Humanitarian-Support-Initiative-
